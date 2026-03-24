@@ -2,7 +2,6 @@ import numpy as np
 import json
 from typing import Any, Dict
 
-# Импорты всегда должны быть в начале файла (PEP-8)
 import init_pump
 from pump import pump
 
